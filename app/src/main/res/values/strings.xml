@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guess_num</string>
+    <string name="count" />
+    <string name="result" />
+    <string name="input" />
+    <string name="Title" />
+    <string name="check" />
+    <string name="reset" />
+</resources>
